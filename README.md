@@ -5,7 +5,30 @@
 Me chamo Silvio Rodrigues Vieira Filho, tenho 26 anos e sou formado em Análise e Desenvolvimento de Sistemas (2021). Tenho direcionado meus estudos e projetos para desenvolvimento backend, com foco em Java, SQL e construção de APIs REST.
 
 Busco constantemente evoluir tecnicamente, aplicando boas práticas e entendendo como as tecnologias são utilizadas em cenários reais. Também possuo conhecimentos em computação em nuvem com AWS.
-
+<p align="left">
+    <a href="https://www.linkedin.com/in/silvio-analyst">
+    <img 
+        alt="linkedin followers" 
+        title="Conecte-se comigo no LinkedIn"
+        src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conectar-236ad3?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=1155ba"
+    />
+</a>
+   
+<a href="https://github.com/SilvioVieiraFilho?tab=repositories&sort=stargazers">
+    <img 
+        alt="Total de estrelas" 
+        title="Total de estrelas GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/stars/SilvioVieiraFilho?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+    />
+</a>
+<a href="https://github.com/SilvioVieiraFilho?tab=followers">
+    <img 
+        alt="Seguidores" 
+        title="Me siga no GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/followers/SilvioVieiraFilho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+</a>
+</p>
 ---
 
 ### 🤖 Linguagens e Tecnologias
