@@ -102,7 +102,7 @@ Busco constantemente evoluir tecnicamente, aplicando boas práticas e entendendo
 
 📌 **API REST em Java (Spring Boot)**  
 Desenvolvimento de uma API para gerenciamento de produtos, aplicando conceitos de backend, JPA e arquitetura em camadas.  
-🔗 https://github.com/SilvioVieiraFilho/java-fundamentals-practice  
+🔗 https://github.com/SilvioVieiraFilho/-springboot-product-api  
 
 ---
 
