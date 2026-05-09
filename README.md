@@ -126,12 +126,11 @@ Exercícios práticos para reforço de lógica de programação, orientação a 
 
 ### 📊 Estatísticas
 
-<br>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SilvioVieiraFilho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SilvioVieiraFilho&show_icons=true&theme=transparent"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioVieiraFilho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioVieiraFilho&layout=compact&theme=transparent"/>
 
 </div>
