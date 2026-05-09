@@ -1,11 +1,10 @@
 # 👨🏻‍💻 Silvio Rodrigues Vieira Filho
 
-**`Desenvolvedor Backend Java`**
+**`Java Backend Engineer | Spring Boot | APIs REST | Microsserviços`**
 
 Me chamo Silvio Rodrigues Vieira Filho, tenho 26 anos e sou formado em Análise e Desenvolvimento de Sistemas (2021). Tenho direcionado meus estudos e projetos para desenvolvimento backend, com foco em Java, SQL e construção de APIs REST.
 
 Busco constantemente evoluir tecnicamente, aplicando boas práticas e entendendo como as tecnologias são utilizadas em cenários reais. Também possuo conhecimentos em computação em nuvem com AWS.
-
 
 <p align="left">
     <a href="https://www.linkedin.com/in/silvio-analyst">
@@ -15,7 +14,7 @@ Busco constantemente evoluir tecnicamente, aplicando boas práticas e entendendo
         src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conectar-236ad3?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=1155ba"
     />
 </a>
-   
+
 <a href="https://github.com/SilvioVieiraFilho?tab=repositories&sort=stargazers">
     <img 
         alt="Total de estrelas" 
@@ -23,6 +22,7 @@ Busco constantemente evoluir tecnicamente, aplicando boas práticas e entendendo
         src="https://custom-icon-badges.demolab.com/github/stars/SilvioVieiraFilho?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
     />
 </a>
+
 <a href="https://github.com/SilvioVieiraFilho?tab=followers">
     <img 
         alt="Seguidores" 
@@ -31,6 +31,7 @@ Busco constantemente evoluir tecnicamente, aplicando boas práticas e entendendo
     />
 </a>
 </p>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -43,6 +44,7 @@ Busco constantemente evoluir tecnicamente, aplicando boas práticas e entendendo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Spring"
@@ -51,6 +53,7 @@ Busco constantemente evoluir tecnicamente, aplicando boas práticas e entendendo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
 />
+
 <img 
     align="left" 
     alt="SQL"
@@ -59,6 +62,7 @@ Busco constantemente evoluir tecnicamente, aplicando boas práticas e entendendo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Hibernate"
@@ -67,6 +71,7 @@ Busco constantemente evoluir tecnicamente, aplicando boas práticas e entendendo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Maven"
@@ -75,6 +80,7 @@ Busco constantemente evoluir tecnicamente, aplicando boas práticas e entendendo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Git"
@@ -83,6 +89,7 @@ Busco constantemente evoluir tecnicamente, aplicando boas práticas e entendendo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
     alt="AWS"
@@ -97,26 +104,34 @@ Busco constantemente evoluir tecnicamente, aplicando boas práticas e entendendo
 
 ---
 
-
 ### 🚀 Projetos em destaque
 
-📌 **API REST em Java (Spring Boot)**  
-Desenvolvimento de uma API para gerenciamento de produtos, aplicando conceitos de backend, JPA e arquitetura em camadas.  
-🔗 https://github.com/SilvioVieiraFilho/-springboot-product-api  
+📌 **Inventory Microservices**  
+Arquitetura de microsserviços utilizando Java + Spring Boot, com comunicação entre APIs via OpenFeign e rastreamento de histórico de operações.  
+🔗 https://github.com/SilvioVieiraFilho/inventory-microservices
+
+---
+
+📌 **Spring Boot Product API**  
+API REST para gerenciamento de produtos aplicando JPA, arquitetura em camadas e boas práticas backend.  
+🔗 https://github.com/SilvioVieiraFilho/springboot-product-api
 
 ---
 
 📌 **Java Fundamentals Practice**  
-Exercícios práticos para reforço de lógica, orientação a objetos e uso de interfaces.  
+Exercícios práticos para reforço de lógica de programação, orientação a objetos e fundamentos Java.  
 🔗 https://github.com/SilvioVieiraFilho/java-fundamentals-practice
+
+---
+
 ### 📊 Estatísticas
 
-<div align="center">
-  <img width="49%" height="195px"
-    src="https://github-readme-stats.vercel.app/api?username=SilvioVieiraFilho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<br>
 
-  <img width="37%" height="195px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioVieiraFilho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SilvioVieiraFilho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioVieiraFilho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+
 </div>
