@@ -111,20 +111,12 @@ Exercícios práticos para reforço de lógica, orientação a objetos e uso de 
 🔗 https://github.com/SilvioVieiraFilho/java-fundamentals-practice
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+<div align="center">
+  <img width="49%" height="195px"
     src="https://github-readme-stats.vercel.app/api?username=SilvioVieiraFilho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioVieiraFilho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img width="37%" height="195px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioVieiraFilho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-</p>
+</div>
