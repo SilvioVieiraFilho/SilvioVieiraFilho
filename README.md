@@ -56,8 +56,17 @@ Busco constantemente evoluir tecnicamente, aplicando boas práticas e entendendo
 
 <img 
     align="left" 
-    alt="SQL"
-    title="SQL" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
@@ -70,6 +79,15 @@ Busco constantemente evoluir tecnicamente, aplicando boas práticas e entendendo
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Docker"
+    title="Docker" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
 />
 
 <img 
@@ -96,12 +114,11 @@ Busco constantemente evoluir tecnicamente, aplicando boas práticas e entendendo
     title="AWS" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
 
 <br/>
 <br/>
-
 ---
 
 ### 🚀 Projetos em destaque
